@@ -1,4 +1,4 @@
-Digital Orton – CRM System for Digital Marketing Services
+**Digital Orton – CRM System for Digital Marketing Services**
 Digital Orton is a promotional CRM platform designed to manage and streamline digital marketing services for businesses. Built using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap, this responsive web application offers an intuitive interface for handling promotions across:
 
 Google Business Profiles
